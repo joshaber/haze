@@ -1,0 +1,6 @@
+{
+  "noodle": {
+    "provider": "gcf",
+    "functionName": "main"
+  }
+}
